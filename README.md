@@ -22,7 +22,7 @@
 - 💻 I’m working in the **DevOps / Cloud Infrastructure** space  
 - 🌱 Currently learning **Kubernetes, Helm, and GitOps**  
 - 🛠️ Skilled in **CI/CD, Terraform, Jenkins, Docker, AWS, and Linux**  
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: ****
 
 ---
 
@@ -69,6 +69,6 @@
 
 - 🎤 Available for **sessions, collabs, and consulting**
 - 💬 Ask me about anything **DevOps / Cloud / CI-CD**
-- 📧 Email me at: adaleshri@outlook.com**
+- 📧 Email me at:**adaleshri@outlook.com**
 
 > *"Let’s build the future with automation, one pipeline at a time!"*
