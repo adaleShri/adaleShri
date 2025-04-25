@@ -22,7 +22,7 @@
 - 💻 I’m working in the **DevOps / Cloud Infrastructure** space  
 - 🌱 Currently learning **Kubernetes, Helm, and GitOps**  
 - 🛠️ Skilled in **CI/CD, Terraform, Jenkins, Docker, AWS, and Linux**  
-- 📫 Reach me at: ****
+- 📫 Reach me at: **adaleshri@outlook.com**
 
 ---
 
