@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Shri Adale</h1>
+<h1 align="center">Hey Everyone 👋, I'm Shrikrishna Adale</h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/00000000/000000000-banner-placeholder.png" alt="Banner" width="100%" />
@@ -69,6 +69,6 @@
 
 - 🎤 Available for **sessions, collabs, and consulting**
 - 💬 Ask me about anything **DevOps / Cloud / CI-CD**
-- 📧 Email me at: **your.email@example.com**
+- 📧 Email me at: adaleshri@outlook.com**
 
 > *"Let’s build the future with automation, one pipeline at a time!"*
